@@ -20,3 +20,26 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/koiralasasbit/Instagram/blob/main/InstagramPart1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **5** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User stays logged in across restarts. 
+- [X] User can log out. 
+- [X] User can view comments on a post. 
+- [X] User can add a new comment. 
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://imgur.com/a/Em9ZYDU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
