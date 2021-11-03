@@ -41,5 +41,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Em9ZYDU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/koiralasasbit/Instagram/blob/main/InstagramPart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
